@@ -1,0 +1,427 @@
+#EXTM3U
+#EXTINF:-1,Record HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/422.m3u8
+#EXTINF:-1,Globo
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/2.m3u8
+#EXTINF:-1,Globo HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/247.m3u8
+#EXTINF:-1,Record
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/6.m3u8
+#EXTINF:-1,RedeTV!
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/4.m3u8
+#EXTINF:-1,Band
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/5.m3u8
+#EXTINF:-1,SBT
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/3.m3u8
+#EXTINF:-1,TV Cultura
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/1.m3u8
+#EXTINF:-1,Canal Futura
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/7.m3u8
+#EXTINF:-1,TV Brasil
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/99.m3u8
+#EXTINF:-1,Telecine Action
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/9.m3u8
+#EXTINF:-1,Telecine Action HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/193.m3u8
+#EXTINF:-1,Telecine Premium
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/8.m3u8
+#EXTINF:-1,Telecine Premium HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/190.m3u8
+#EXTINF:-1,Telecine Touch
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/12.m3u8
+#EXTINF:-1,Telecine Touch HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/189.m3u8
+#EXTINF:-1,Telecine Fun
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/10.m3u8
+#EXTINF:-1,Telecine Fun HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/192.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/11.m3u8
+#EXTINF:-1,Telecine Pipoca HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/191.m3u8
+#EXTINF:-1,Telecine Cult
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/13.m3u8
+#EXTINF:-1,Telecine Cult HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/241.m3u8
+#EXTINF:-1,HBO
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/14.m3u8
+#EXTINF:-1,HBO HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/198.m3u8
+#EXTINF:-1,HBO 2
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/15.m3u8
+#EXTINF:-1,HBO2 HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/182.m3u8
+#EXTINF:-1,HBO Plus
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/18.m3u8
+#EXTINF:-1,HBO Plus HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/197.m3u8
+#EXTINF:-1,HBO Signature
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/16.m3u8
+#EXTINF:-1,HBO Signature HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/196.m3u8
+#EXTINF:-1,HBO Family
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/17.m3u8
+#EXTINF:-1,HBO Family HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/172.m3u8
+#EXTINF:-1,Universal
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/22.m3u8
+#EXTINF:-1,Universal Channel HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/222.m3u8
+#EXTINF:-1,+GloboSat
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/108.m3u8
+#EXTINF:-1,Mais Globosat HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/206.m3u8
+#EXTINF:-1,TNT
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/30.m3u8
+#EXTINF:-1,TNT HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/188.m3u8
+#EXTINF:-1,TNT Séries
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/101.m3u8
+#EXTINF:-1,TNT Séries HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/223.m3u8
+#EXTINF:-1,TCM
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/35.m3u8
+#EXTINF:-1,Studio Universal
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/32.m3u8
+#EXTINF:-1,Max Prime
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/24.m3u8
+#EXTINF:-1,Max Prime HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/245.m3u8
+#EXTINF:-1,Max Prime Plus
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/107.m3u8
+#EXTINF:-1,Max
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/23.m3u8
+#EXTINF:-1,Max HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/185.m3u8
+#EXTINF:-1,TBS
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/33.m3u8
+#EXTINF:-1,Warner
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/26.m3u8
+#EXTINF:-1,Warner HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/178.m3u8
+#EXTINF:-1,Paramount Channel
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/34.m3u8
+#EXTINF:-1,Fox
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/20.m3u8
+#EXTINF:-1,FOX HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/202.m3u8
+#EXTINF:-1,FOX 1 HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/228.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/171.m3u8
+#EXTINF:-1,Space
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/21.m3u8
+#EXTINF:-1,Space HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/194.m3u8
+#EXTINF:-1,Sony
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/28.m3u8
+#EXTINF:-1,Canal Sony HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/209.m3u8
+#EXTINF:-1,Megapix
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/19.m3u8
+#EXTINF:-1,TLC
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/44.m3u8
+#EXTINF:-1,TLC HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/205.m3u8
+#EXTINF:-1,Megapix HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/225.m3u8
+#EXTINF:-1,FX
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/27.m3u8
+#EXTINF:-1,FX HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/177.m3u8
+#EXTINF:-1,AXN
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/29.m3u8
+#EXTINF:-1,AXN HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/211.m3u8
+#EXTINF:-1,Max Up
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/25.m3u8
+#EXTINF:-1,MAX UP HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/195.m3u8
+#EXTINF:-1,Cinemax
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/31.m3u8
+#EXTINF:-1,Cinemax HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/187.m3u8
+#EXTINF:-1,A&E
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/41.m3u8
+#EXTINF:-1,A&E HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/176.m3u8
+#EXTINF:-1,I sat
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/109.m3u8
+#EXTINF:-1,SporTV
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/55.m3u8
+#EXTINF:-1,Sportv HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/242.m3u8
+#EXTINF:-1,SporTV 2
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/56.m3u8
+#EXTINF:-1,Sportv 2 HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/244.m3u8
+#EXTINF:-1,SporTV 3
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/57.m3u8
+#EXTINF:-1,Sportv 3 HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/243.m3u8
+#EXTINF:-1,Fox Sports
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/63.m3u8
+#EXTINF:-1,Fox Sports HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/200.m3u8
+#EXTINF:-1,Fox Sports 2
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/64.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/201.m3u8
+#EXTINF:-1,ESPN
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/59.m3u8
+#EXTINF:-1,ESPN HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/169.m3u8
+#EXTINF:-1,ESPN+
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/60.m3u8
+#EXTINF:-1,ESPN Plus  HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/183.m3u8
+#EXTINF:-1,ESPN Brasil
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/61.m3u8
+#EXTINF:-1,ESPN Brasil HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/203.m3u8
+#EXTINF:-1,Band Sports
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/58.m3u8
+#EXTINF:-1,Band Sports HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/184.m3u8
+#EXTINF:-1,Ei Maxx
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/65.m3u8
+#EXTINF:-1,EI Maxx HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/229.m3u8
+#EXTINF:-1,Ei Maxx 2
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/66.m3u8
+#EXTINF:-1,EI Maxx 2 HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/204.m3u8
+#EXTINF:-1,Esporte Interativo
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/67.m3u8
+#EXTINF:-1,Combate
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/80.m3u8
+#EXTINF:-1,Combate HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/234.m3u8
+#EXTINF:-1,Premiere Clubes
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/71.m3u8
+#EXTINF:-1,Premiere Clubes HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/221.m3u8
+#EXTINF:-1,Premiere 2
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/72.m3u8
+#EXTINF:-1,Premiere 2 HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/217.m3u8
+#EXTINF:-1,Premiere 3
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/73.m3u8
+#EXTINF:-1,Premiere 3 HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/216.m3u8
+#EXTINF:-1,Premiere 4
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/74.m3u8
+#EXTINF:-1,Premiere 4 HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/215.m3u8
+#EXTINF:-1,Premiere 5
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/75.m3u8
+#EXTINF:-1,Premiere 5 HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/214.m3u8
+#EXTINF:-1,Premiere 6
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/76.m3u8
+#EXTINF:-1,Premiere 7
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/77.m3u8
+#EXTINF:-1,Premiere 8
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/78.m3u8
+#EXTINF:-1,Premiere 9
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/79.m3u8
+#EXTINF:-1,Off
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/62.m3u8
+#EXTINF:-1,OFF HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/179.m3u8
+#EXTINF:-1,Woohoo
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/96.m3u8
+#EXTINF:-1,Bis
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/37.m3u8
+#EXTINF:-1,BIS HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/210.m3u8
+#EXTINF:-1,Multishow
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/39.m3u8
+#EXTINF:-1,Multishow HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/181.m3u8
+#EXTINF:-1,MTV
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/38.m3u8
+#EXTINF:-1,MTV HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/219.m3u8
+#EXTINF:-1,Vh1 Mega hits
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/98.m3u8
+#EXTINF:-1,VH1 HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/213.m3u8
+#EXTINF:-1,Viva
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/36.m3u8
+#EXTINF:-1,Viva HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/212.m3u8
+#EXTINF:-1,GNT
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/40.m3u8
+#EXTINF:-1,GNT HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/199.m3u8
+#EXTINF:-1,Fox Life
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/43.m3u8
+#EXTINF:-1,Lifetime HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/226.m3u8
+#EXTINF:-1,Canal Brasil
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/112.m3u8
+#EXTINF:-1,Canal Brasil HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/220.m3u8
+#EXTINF:-1,Sic Internacional
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/103.m3u8
+#EXTINF:-1,Music Box Brasil
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/106.m3u8
+#EXTINF:-1,Prime Box Brasil
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/104.m3u8
+#EXTINF:-1,Comedy Central
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/111.m3u8
+#EXTINF:-1,E!
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/42.m3u8
+#EXTINF:-1,E! HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/230.m3u8
+#EXTINF:-1,Arte 1
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/113.m3u8
+#EXTINF:-1,TruTV
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/100.m3u8
+#EXTINF:-1,Syfy
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/102.m3u8
+#EXTINF:-1,Tooncast
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/97.m3u8
+#EXTINF:-1,Disney Channel
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/86.m3u8
+#EXTINF:-1,Disney Channel HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/208.m3u8
+#EXTINF:-1,Disney XD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/85.m3u8
+#EXTINF:-1,Disney Junior
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/84.m3u8
+#EXTINF:-1,Nickelodeon
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/83.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/218.m3u8
+#EXTINF:-1,Nick Jr.
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/87.m3u8
+#EXTINF:-1,Discovery Kids
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/88.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/232.m3u8
+#EXTINF:-1,Gloob
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/81.m3u8
+#EXTINF:-1,Gloob HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/207.m3u8
+#EXTINF:-1,Boomerang
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/89.m3u8
+#EXTINF:-1,Cartoon Network
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/82.m3u8
+#EXTINF:-1,Cartoon HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/235.m3u8
+#EXTINF:-1,Nat Geo
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/45.m3u8
+#EXTINF:-1,Nat Geo HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/224.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/180.m3u8
+#EXTINF:-1,History
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/52.m3u8
+#EXTINF:-1,History HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/168.m3u8
+#EXTINF:-1,H2
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/53.m3u8
+#EXTINF:-1,H2 HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/173.m3u8
+#EXTINF:-1,Animal Planet
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/51.m3u8
+#EXTINF:-1,Animal Planet HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/175.m3u8
+#EXTINF:-1,Discovery
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/46.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/170.m3u8
+#EXTINF:-1,Discovery Turbo
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/49.m3u8
+#EXTINF:-1,Discovery Turbo HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/231.m3u8
+#EXTINF:-1,Discovery Science
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/54.m3u8
+#EXTINF:-1,Discovery ID
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/47.m3u8
+#EXTINF:-1,ID - Investigação Discovery HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/174.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/48.m3u8
+#EXTINF:-1,Disc. Home & Health HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/233.m3u8
+#EXTINF:-1,Discovery Civilization
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/50.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/246.m3u8
+#EXTINF:-1,Discovery World HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/186.m3u8
+#EXTINF:-1,Record News
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/69.m3u8
+#EXTINF:-1,Globo News
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/68.m3u8
+#EXTINF:-1,GloboNews HD
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/227.m3u8
+#EXTINF:-1,Band News
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/70.m3u8
+#EXTINF:-1,Sexy Hot
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/91.m3u8
+#EXTINF:-1,Sextreme
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/92.m3u8
+#EXTINF:-1,Playboy TV
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/90.m3u8
+#EXTINF:-1,Novo Tempo
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/105.m3u8
+#EXTINF:-1,Fish TV
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/110.m3u8
+#EXTINF:-1,Aparecida
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/559.m3u8
+#EXTINF:-1,Band Alternativo
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/560.m3u8
+#EXTINF:-1,Canção Nova
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/561.m3u8
+#EXTINF:-1,Curta!
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/562.m3u8
+#EXTINF:-1,Food Network
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/563.m3u8
+#EXTINF:-1,Globo Brasília
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/564.m3u8
+#EXTINF:-1,Globo Minas
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/565.m3u8
+#EXTINF:-1,Globo Nordeste
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/566.m3u8
+#EXTINF:-1,Globo RJ
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/567.m3u8
+#EXTINF:-1,HBO Plus*e
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/568.m3u8
+#EXTINF:-1,Ideal TV
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/569.m3u8
+#EXTINF:-1,Lifetime
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/570.m3u8
+#EXTINF:-1,MAX Prime*e
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/571.m3u8
+#EXTINF:-1,NBR
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/572.m3u8
+#EXTINF:-1,Play TV
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/573.m3u8
+#EXTINF:-1,RBI
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/575.m3u8
+#EXTINF:-1,RBS TV Porto Alegre
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/576.m3u8
+#EXTINF:-1,Rede Brasil
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/577.m3u8
+#EXTINF:-1,Rede Vida
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/578.m3u8
+#EXTINF:-1,RIT
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/579.m3u8
+#EXTINF:-1,SporTV 2 Alternativo
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/580.m3u8
+#EXTINF:-1,SporTV Alternativo
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/581.m3u8
+#EXTINF:-1,Terra Viva
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/582.m3u8
+#EXTINF:-1,TV Anhanguera Goiânia
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/584.m3u8
+#EXTINF:-1,TV Bahia
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/585.m3u8
+#EXTINF:-1,TV RÆ tim bum
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/586.m3u8
+#EXTINF:-1,TV Verdes Mares Fortaleza
+http://192.99.148.73:8080/live/alexjorgetrentini/2123652/587.m3u8
